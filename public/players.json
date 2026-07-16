@@ -1,0 +1,122 @@
+[
+  {
+    "player-image": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Liton_Das_on_practice.jpg",
+    "player-name": "Litton Das",
+    "player-country": "Bangladesh",
+    "player-role": "Wicketkeeper-Batter",
+    "rating": 8.5,
+    "bating-style": "Right-hand bat",
+    "bowling-style": "None",
+    "price": "BDT 5,000,000"
+  },
+  {
+    "player-image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Mohammad_Naim_in_2023.jpg",
+    "player-name": "Mohammad Naim",
+    "player-country": "Bangladesh",
+    "player-role": "Batter",
+    "rating": 7.8,
+    "bating-style": "Left-hand bat",
+    "bowling-style": "Right-arm offbreak",
+    "price": "BDT 5,000,000"
+  },
+  {
+    "player-image": "https://upload.wikimedia.org/wikipedia/commons/d/da/Shoriful_Islam_in_2023.jpg",
+    "player-name": "Shoriful Islam",
+    "player-country": "Bangladesh",
+    "player-role": "Bowler",
+    "rating": 8.2,
+    "bating-style": "Left-hand bat",
+    "bowling-style": "Left-arm medium-fast",
+    "price": "BDT 3,500,000"
+  },
+  {
+    "player-image": "https://upload.wikimedia.org/wikipedia/commons/5/52/Mushfiqur_Rahim_playing_for_Abahani_Limited_in_2018.jpg",
+    "player-name": "Mushfiqur Rahim",
+    "player-country": "Bangladesh",
+    "player-role": "Wicketkeeper-Batter",
+    "rating": 8.7,
+    "bating-style": "Right-hand bat",
+    "bowling-style": "None",
+    "price": "BDT 3,500,000"
+  },
+  {
+    "player-image": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Dasun_Shanaka_2021.jpg",
+    "player-name": "Dasun Shanaka",
+    "player-country": "Sri Lanka",
+    "player-role": "All-rounder",
+    "rating": 8.0,
+    "bating-style": "Right-hand bat",
+    "bowling-style": "Right-arm medium",
+    "price": "USD 55,000"
+  },
+  {
+    "player-image": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Tawhid_Hridoy_at_SBNCS_%28cropped%29.jpg",
+    "player-name": "Tawhid Hridoy",
+    "player-country": "Bangladesh",
+    "player-role": "Batter",
+    "rating": 8.6,
+    "bating-style": "Right-hand bat",
+    "bowling-style": "Right-arm offbreak",
+    "price": "BDT 3,500,000"
+  },
+  {
+    "player-image": "https://upload.wikimedia.org/wikipedia/commons/5/59/Nahid_Rana_%28cropped%29.jpg",
+    "player-name": "Nahid Rana",
+    "player-country": "Bangladesh",
+    "player-role": "Bowler",
+    "rating": 8.1,
+    "bating-style": "Right-hand bat",
+    "bowling-style": "Right-arm fast",
+    "price": "BDT 2,500,000"
+  },
+  {
+    "player-image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Niroshan_Dickwella_front_face.jpg",
+    "player-name": "Niroshan Dickwella",
+    "player-country": "Sri Lanka",
+    "player-role": "Wicketkeeper-Batter",
+    "rating": 7.5,
+    "bating-style": "Left-hand bat",
+    "bowling-style": "None",
+    "price": "USD 35,000"
+  },
+  {
+    "player-image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Mustafizur_Rahman_at_Mirpur_%281%29_%28cropped%29.jpg",
+    "player-name": "Mustafizur Rahman",
+    "player-country": "Bangladesh",
+    "player-role": "Bowler",
+    "rating": 8.8,
+    "bating-style": "Left-hand bat",
+    "bowling-style": "Left-arm fast-medium",
+    "price": "BDT 5,000,000"
+  },
+  {
+    "player-image": "https://upload.wikimedia.org/wikipedia/commons/2/23/Taskin_Ahmed_Dhaka_2023.jpg",
+    "player-name": "Taskin Ahmed",
+    "player-country": "Bangladesh",
+    "player-role": "Bowler",
+    "rating": 8.7,
+    "bating-style": "Left-hand bat",
+    "bowling-style": "Right-arm fast",
+    "price": "BDT 5,000,000"
+  },
+  {
+    "player-image": "https://upload.wikimedia.org/wikipedia/commons/d/de/Mehidy_Hasan_Miraz_in_2023.jpg",
+    "player-name": "Mehidy Hasan Miraz",
+    "player-country": "Bangladesh",
+    "player-role": "All-rounder",
+    "rating": 8.9,
+    "bating-style": "Right-hand bat",
+    "bowling-style": "Right-arm offbreak",
+    "price": "BDT 5,000,000"
+  },
+  {
+    "player-image": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Alex_Hales_2.JPG",
+    "player-name": "Alex Hales",
+    "player-country": "England",
+    "player-role": "Batter",
+    "rating": 8.4,
+    "bating-style": "Right-hand bat",
+    "bowling-style": "Right-arm medium",
+    "price": "USD 70,000"
+  }
+]
